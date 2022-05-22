@@ -1,0 +1,6 @@
+name: BotEntry
+main: fr.syrql.botentry.BotEntry
+version: 0.0.1
+author: SYRQL
+commands:
+  botentry:
